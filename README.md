@@ -1,16 +1,11 @@
 # startup_namer
 
-A new Flutter project.
+- use ```flutter devices``` to see the connected devices
 
-## Getting Started
+- use ```flutter run``` to localhost
 
-This project is a starting point for a Flutter application.
+- type 'r' in the terminal after ```flutter run``` to hot reload changes
 
-A few resources to get you started if this is your first Flutter project:
+- use ```flutter build web``` to build for the web
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- use ```firebase deploy``` to deploy changes to Firebase Web Hosting
