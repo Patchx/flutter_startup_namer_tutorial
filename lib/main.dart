@@ -4,7 +4,7 @@
 // ----------------
 
 import 'package:flutter/material.dart';
-import 'package:startup_namer/RandomWords.dart';
+import 'package:startup_namer/RandomWordsPage.dart';
 
 // --------
 // - Main -
@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Colors.white,
       ),
-      home: RandomWords(),
+      home: RandomWordsPage(),
     );
   }
 }
